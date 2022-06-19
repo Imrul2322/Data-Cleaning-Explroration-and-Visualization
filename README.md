@@ -3,7 +3,7 @@
 ## Environment
 Here I worked with COVID-19 death and vaccination dataset from Feb 2020 to June 2022. Big dataset, so I used cloud SQL on GCP for faster queries.
 My machine is not with high-end configuration and it was taking long time to load csv file into MySQL server. 
-I used MySQL WorkeBench, connected with cloud SQL. 
+I used MySQL WorkeBench, connected with cloud SQL instance. 
 
 It was a great experience.
 Most importantly, running queries are so fast!
