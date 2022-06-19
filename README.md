@@ -12,7 +12,7 @@ Most importantly, running queries are so fast!
 ## Works done
 
 ### 1. 'Data Exploration SQL' 
-Here, I included all SQL codes I used to explore the dataset. Created queries to extract specific information I want. I used sub-queries, partitions, join, CTE, temp table and lot more. 
+Here, I included all SQL codes I used to explore the dataset. Created queries to extract specific information I want. I used sub-queries, partitions, join, CTE, temp table and lot more. Data was not clean. I will work on this and show in later file. I needed to explore the dataset many times to get what I want. 
 
 ### 2. 
 
