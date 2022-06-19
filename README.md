@@ -9,7 +9,7 @@ It was a great experience.
 Most importantly, running queries are so fast!
 
 
-## works done
+## Works done
 
 ### 1. 'Data Exploration SQL' 
 Here, I included all SQL codes I used to explore the dataset. Created queries to extract specific information I want. I used sub-queries, partitions, join, CTE, temp table and lot more. 
