@@ -1,4 +1,4 @@
-# Data Cleaning, Exploration and Visualization
+# Data Cleaning, Exploration, Visualization and Correlation
 
 ## Environment
 Here I worked with COVID-19 death and vaccination dataset from Feb 2020 to June 2022. Big dataset, so I used cloud SQL on GCP for faster queries.
