@@ -2,12 +2,14 @@
 
 ## Key Findings
 
-USA was one of the biggest victim of COVID-19 in terms of COVID-19 cases and death counts. Everage new cases decreased significantly after November 2021 in USA. Total death count was highest in Europe among continents. Vaccinations started in USA on December, 2020 and by May, 2022 66.65% people were fully vaccinated. 
+USA was one of the biggest victim of COVID-19 in terms of COVID-19 cases and death counts. Everage new cases decreased significantly after November 2021 in USA. Total death count was highest in Europe among continents. Vaccinations started in USA on December 2020 and by May 2022, 66.65% people were fully vaccinated. 
 
-## Environment
+## Resources
 
-1. Microsoft SQL Server Management Studio
-2. Google Cloud Services (Cloud SQL)
+* Microsoft SQL Server Management Studio
+* Google Cloud Services (Cloud SQL)
+* Tableau
+* Python (Pandas)
 
 ## Dataset
 
@@ -20,10 +22,8 @@ Modified 2: https://drive.google.com/file/d/1qR1Gt9YQGRzrQzRpeFD7QTunRsfoRMst/vi
 
 ## Data Exploration SQL 
 
-Created queries to extract specific information using sub-queries, partitions, join, CTE, temp table, window function etc. 
-
-
-Original dataset has a wide range of information related to COVID-19. Information about new cases, new death, new hospitalized count, total count for each cases and many more. I have shown many useful information like death_rate for each country and each continent, extracted date on which each country had highest death count, vaccination rate for each country and many more. Lastly I created view for most important information for using in Tableau. 
+* Created queries to extract specific information using sub-queries, partitions, join, CTE, temp table, window function etc. 
+* 
 
 ## Data Visualization in Tableau
 
