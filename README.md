@@ -4,6 +4,15 @@
 
 USA was one of the biggest victim of COVID-19 in terms of COVID-19 cases, death counts and was one of the top contries to respond against it with rapid vaccination. New cases were decreased significantly after November 2021 in USA. Total death count was highest in Europe among continents. Vaccinations started in USA on December 2020 and by May 2022, 66.65% people were fully vaccinated. 
 
+## Table of Contents
+
+* <a href="https://github.com/Imrul2322/Data-Cleaning-Explroration-and-Visualization#Resources">Resources</a>
+* <a href="https://github.com/Imrul2322/Data-Cleaning-Explroration-and-Visualization#Dataset">Dataset</a>
+* <a href="https://github.com/Imrul2322/Data-Cleaning-Explroration-and-Visualization#Data-Exploration-SQL">Data Exploration SQL</a>
+* <a href="https://github.com/Imrul2322/Data-Cleaning-Explroration-and-Visualization#Data-Visualization-in-Tableau">Data Visualization in Tableau</a>
+* <a href="https://github.com/Imrul2322/Data-Cleaning-Explroration-and-Visualization#Data-Cleaning-in-SQL">Data Cleaning in SQL</a>
+* <a href="https://github.com/Imrul2322/Data-Cleaning-Explroration-and-Visualization#Data-Correlation-using-Python">Data Correlation using Python</a>
+
 ## Resources
 
 * Microsoft SQL Server Management Studio
@@ -19,7 +28,6 @@ Modified 1: https://drive.google.com/file/d/1nW08bdKSjJqNtVC53bY07q1X-1Cof4Sg/vi
 
 Modified 2: https://drive.google.com/file/d/1qR1Gt9YQGRzrQzRpeFD7QTunRsfoRMst/view?usp=sharing
 
-## Works done
 
 ## Data Exploration SQL 
 
