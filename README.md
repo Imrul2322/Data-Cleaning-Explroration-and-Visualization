@@ -10,7 +10,6 @@ USA was one of the biggest victim of COVID-19 in terms of COVID-19 cases, death 
 * <a href="https://github.com/Imrul2322/Data-Cleaning-Explroration-and-Visualization#Dataset">Dataset</a>
 * <a href="https://github.com/Imrul2322/Data-Cleaning-Explroration-and-Visualization#Data-Exploration-SQL">Data Exploration SQL</a>
 * <a href="https://github.com/Imrul2322/Data-Cleaning-Explroration-and-Visualization#Data-Visualization-in-Tableau">Data Visualization in Tableau</a>
-* <a href="https://github.com/Imrul2322/Data-Cleaning-Explroration-and-Visualization#Data-Cleaning-in-SQL">Data Cleaning in SQL</a>
 * <a href="https://github.com/Imrul2322/Data-Cleaning-Explroration-and-Visualization#Data-Correlation-using-Python">Data Correlation using Python</a>
 
 ## Resources
@@ -43,20 +42,9 @@ for interactive dashboard, click <a href="https://public.tableau.com/views/Globa
 
 ![step 0](https://github.com/Imrul2322/Data-Cleaning-Explroration-and-Visualization/blob/main/global%20vaccination%20report%20tableau.png "title")
 
-## 3. Data Cleaning in SQL
-
-* Changed the date format to 'yyy-MM-dd' format.
-* Split complete location address to street address, city, state and zip code (substring & parsename). 
-* Brought consistency in data (e.g. ('Y', 'Yes') to 'Yes').  
-* Handled duplicate rows and remove irrelevant columns. 
-
-Dataset: https://docs.google.com/spreadsheets/d/1c8IQveix6Ly5pPAezQ0xaGoSh3ObXuxC/edit?usp=sharing&ouid=112644935180655994459&rtpof=true&sd=true
-
 ## Data Correlation using Python
 
 * Replaced missing values with zero.
 * Fixed data type of numerical value columns. 
 * Dropped duplicate columns.
-* Unstacked data to find highest correlated features in the data. 
-
-Dataset: https://drive.google.com/file/d/1K9RORIgg2pmFeM3OAtv-ShMifi4CQg3x/view?usp=sharing
+* Unstacked data to find highest correlated features in the data.
