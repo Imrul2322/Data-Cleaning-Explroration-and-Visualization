@@ -2,7 +2,7 @@
 
 ## Key Findings
 
-USA was one of the biggest victim of COVID-19 in terms of COVID-19 cases, death counts and was one of the top contries to respond against it with rapid vaccination. New cases were decreased significantly after November 2021 in USA. Total death count was highest in Europe among continents. Vaccinations started in USA on December 2020 and by May 2022, 66.65% people were fully vaccinated. 
+USA was one of the biggest victim of COVID-19 in terms of COVID-19 cases, death counts. From visualization first and second wave of COVID-19 in US can be observed clearly. Total death count was highest in Europe among continents. Vaccinations started in USA on December 2020 and by May 2022, 66.65% people were fully vaccinated. Most of the countries in Africa, were in shortage of vaccine, vaccination rate is very low. Though China was the source of COVID-19, impact was very low in China, where USA was the biggest victim.
 
 ## Table of Contents
 
@@ -38,16 +38,15 @@ Modified 2: https://drive.google.com/file/d/1qR1Gt9YQGRzrQzRpeFD7QTunRsfoRMst/vi
 
 ## Data Visualization in Tableau
 
+Information provided:
+* Global vaccination count and percentage.
+* Countries which had less than 10% vaccination rate.
+* Countries which are impacted most due to COVID-19.
+* Comparision between US and China on COVID-19 impact.
 
-<div class='tableauPlaceholder' id='viz1658011746897' style='position: relative'>
-<a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;first_16557649026740&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='first_16557649026740&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;fi&#47;first_16557649026740&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
+for interactive dashboard, click <a href="https://public.tableau.com/views/GlobalCovid-19DeathandVacc_Report/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link">here</a>
 
-for interactive dashboard, click <a href="https://public.tableau.com/views/first_16557649026740/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link">here</a>
-
-
-<div class='tableauPlaceholder' id='viz1658279229524' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gl&#47;GlobalVaccinationReport&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='GlobalVaccinationReport&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gl&#47;GlobalVaccinationReport&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>
-
-for interactive dashboard, click <a href="https://public.tableau.com/views/GlobalVaccinationReport/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link">here</a>
+![step 0](https://github.com/Imrul2322/Data-Cleaning-Explroration-and-Visualization/blob/main/global%20vaccination%20report%20tableau.png "title")
 
 ## 3. Data Cleaning in SQL
 
