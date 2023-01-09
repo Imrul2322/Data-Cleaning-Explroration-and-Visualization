@@ -24,11 +24,6 @@ USA was one of the biggest victim of COVID-19 in terms of COVID-19 cases, death 
 
 Data collected from https://www.worldometers.info/coronavirus/
 
-Modified 1: https://drive.google.com/file/d/1nW08bdKSjJqNtVC53bY07q1X-1Cof4Sg/view?usp=sharing
-
-Modified 2: https://drive.google.com/file/d/1qR1Gt9YQGRzrQzRpeFD7QTunRsfoRMst/view?usp=sharing
-
-
 ## Data Exploration SQL 
 
 * Created queries using sub-queries, partitions, join, CTE, temp table, window function etc. 
